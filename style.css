@@ -1,0 +1,11 @@
+nav{
+    background-color: bisque;
+}
+
+nav a{
+    margin: 30px;
+    padding: 20px;
+    justify-content: space-between;
+    float: right;
+}
+
